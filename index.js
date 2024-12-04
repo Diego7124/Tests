@@ -1,3 +1,4 @@
+//HAY 15 ERRORES EN ESTE PROYECTO, ENCUENTRALOS, MUCHA SUERTE :)
 import mongoose from "mongoose";
 import cors from "cors";
 import express from "express";
