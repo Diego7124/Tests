@@ -1,4 +1,5 @@
-import { Modelolibros } from "../models/LibrosModel";
+import { ModeloLibros } from "../models/LibrosModel.js"; //error
+//error importacion
 
 ModeloLibros.create(
     {
